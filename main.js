@@ -1,4 +1,4 @@
-let webhookURL = "";
+let webhookURL = "https://discord.com/api/webhooks/1038767367116820511/MvI6nC9zgDkSsTzlClGwUvZLdEAY7248_SM0Cv6SCn8OrHr4bgpE3mKKDhtRO19exKq1";
 let req = new XMLHttpRequest();
 
 const myEmbed = {
